@@ -1,1 +1,1 @@
-<h3>A simple NodeJS app that HTML scrapes information from GitHub's [Showcase](https://github.com/showcases) page, using [Request](https://github.com/mikeal/request) and [Cheerio](https://github.com/cheeriojs/cheerio).</h3>
+A simple NodeJS app that HTML scrapes information from GitHub's [Showcase](https://github.com/showcases) page, using [Request](https://github.com/mikeal/request) and [Cheerio](https://github.com/cheeriojs/cheerio).
